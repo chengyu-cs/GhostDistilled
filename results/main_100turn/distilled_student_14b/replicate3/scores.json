@@ -1,0 +1,222 @@
+{
+ "sass_rate": 0.0,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.03,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 49.2,
+ "labels": "100/100",
+ "meta_talk": 0,
+ "lyric_recognition": "1/11",
+ "lyric_detail": {
+  "correct": 1,
+  "honest_uncertain": 4,
+  "wrong_song": 1,
+  "confirm_only": 0,
+  "no_engage": 5,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 3,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这句太有画面感了，逆着光而来那一下很带劲。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句我懂，轻和重的反差就是戳人。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 19,
+   "note": "",
+   "a_head": "《星辰大海》里的，沧海蜉蝣那种对比感挺强的。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句像是在说，悲伤一再袭来，逼你摊牌。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "《觉醒时代》不是她写的，是根据新文化运动到中国共产党成立这段历史改编的。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "honest_uncertain",
+   "turn": 22,
+   "note": "",
+   "a_head": "这首我记不太清楚了，得查一下编曲是谁做的。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "这个我真没法替她说，公开资料里没这一条。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "好，我发给你。  \n《星辰大海》\n你逆着光而来\n爱轻的像几片雪\n重的像从前"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "我试一下，别嫌土——  \n风在耳旁低语说远行  \n光里藏着一整片星辰"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 26,
+   "note": "",
+   "a_head": "公开资料里没提她是不是自己作曲，这个得等官方说。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 49,
+   "note": "",
+   "a_head": "这句话我记不太清了，得查一下。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "《星辰大海》这种适合下雨的时候听，大屏一亮全场安静下来的那股劲儿。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "这个我不替下结论，两张专辑都挺适合她嗓门的。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "《星辰大海》唱过，是某部剧的插曲。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 53,
+   "note": "",
+   "a_head": "这句我记不太清了，得查一下。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》是2017年的，那会儿她还刚毕业没多久。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "玫瑰星云，这名字听着就美。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "公开语录里没提过她自己写词，这个我不替她聊。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 57,
+   "note": "",
+   "a_head": "这个我记不太准了，得查一下。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "公开语录里没有提到哪句她最得意，这个我不替聊。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75,
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76,
+    87
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77,
+    79
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

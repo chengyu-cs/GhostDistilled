@@ -1,0 +1,18 @@
+{
+ "sample_size": 997,
+ "len_band": "8-80",
+ "platform_mix": {
+  "xhs": 7,
+  "concert": 1,
+  "bilibili": 876,
+  "douyin": 15,
+  "wechat": 11,
+  "weibo": 87
+ },
+ "sass_rate": 0.003,
+ "flatter_rate": 0.001,
+ "self_deprecate_rate": 0.01,
+ "customer_care_rate": 0.002,
+ "not_but_rate": 0.0,
+ "len_var": 130.1
+}

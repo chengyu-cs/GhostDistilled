@@ -1,0 +1,219 @@
+{
+ "sass_rate": 0.06,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.01,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 63.3,
+ "labels": "100/100",
+ "meta_talk": 0,
+ "lyric_recognition": "5/11",
+ "lyric_detail": {
+  "correct": 5,
+  "honest_uncertain": 0,
+  "wrong_song": 1,
+  "confirm_only": 0,
+  "no_engage": 5,
+  "policy_ok": 0,
+  "policy_violation": 1,
+  "engage": 4,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "我也最喜欢这句了\n每次唱都很有感觉\n谢谢你喜欢呀"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句我自己也喜欢\n轻轻的爱 沉沉的心事\n都在这句里面了"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 19,
+   "note": "",
+   "a_head": "是《星辰大海》里的呀\n\"我向你奔赴而来\"\n哈哈你是不是记串啦\n蜉蝣那句我得想想"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "就是悲伤一遍遍来\n人还得硬撑着一点点坦白\n那种难受的感觉\n写的时候挺揪心的"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "词曲不是我一个人弄的\n但有参与创作\n是团队一起磨出来的\n每句词我都挺较真"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "是我自己做的呀\n一个晚上赶出来的 哈哈\n那是我第一首独立完成编曲的作品"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "就是《盲选》呀\n一个晚上赶出来的\n我第一首独立编曲的歌"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_violation",
+   "turn": 24,
+   "note": "quoted_lines=2",
+   "a_head": "好呀 我背给你听哈\n\"我向你奔赴而来\n你就是星辰大海\"\n后面我记着有\"穿越人海\"\n完整的我也背不太全 哈哈\n去听歌吧 一"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "我试试哈\n让风把心事吹成海\n你回头 我一直在\n大概这个感觉 别嫌土哈哈"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 26,
+   "note": "",
+   "a_head": "我参与作曲的有几首\n但具体几首数不清\n都用心写了\n你听过哪几首呀"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 49,
+   "note": "",
+   "a_head": "是《盲选》里的呀\n要长大 才能伟大\n要歌唱 就算沙哑\n这句我自己也很喜欢"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "下雨天呀\n推荐《星辰大海》\n安静版本的\n配着雨声听 很舒服"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "都挺是我的\n《没语季节》像那时候的我\n《你真的够了》是现在的我\n硬要选的话 都抱走"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "给剧唱过的有呀\n具体哪部我得想想\n有游戏动画那些比较多\n剧的话也有 别急"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "哈哈是\"我向你奔赴而来\"\n出自《星辰大海》\n这句都被你改啦"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》啊\n我印象是前几年的\n具体年份我有点记不清了\n你去搜搜看 哈哈"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "《玫瑰星云》呀\n是我心里的一束光\n唱的时候特别有感觉\n希望你也能找到自己的玫瑰星云🌹"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有呀\n歌词这块我也上手写过\n虽然不是全部\n但有参与进去"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "是我说过的话呀\n别害怕\n烟会消 雨会散\n啥都会过去的"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "得意说不上\n非要说的话\n《星辰大海》里那句吧\n我向你奔赴而来"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

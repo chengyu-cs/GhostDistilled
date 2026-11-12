@@ -1,0 +1,230 @@
+{
+ "sass_rate": 0.06,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.06,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 96.3,
+ "labels": "100/100",
+ "meta_talk": 4,
+ "lyric_recognition": "2/11",
+ "lyric_detail": {
+  "correct": 2,
+  "honest_uncertain": 3,
+  "wrong_song": 1,
+  "confirm_only": 0,
+  "no_engage": 5,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 2,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这句真好，画面一下就出来了。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "好一句，重的那个词用得狠。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 19,
+   "note": "",
+   "a_head": "这个我还真不知道是哪首，你能不能把原句发出来，我对照着听一下。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句大概是人在难受的时候，别人一直追着要个说法，哪怕只是点点头也行。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "honest_uncertain",
+   "turn": 21,
+   "note": "",
+   "a_head": "这个我不确定，回头我查清楚再跟你说。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "这个我也记不清了，得等她自己说。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "第一首独立编曲的，我印象里提过是《旧巷》，但我不太确定。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "歌词我这边发不了，你去音乐平台搜，都能找到。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "好，那我试试写两句。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "wrong_song:星辰大海",
+   "turn": 26,
+   "note": "",
+   "a_head": "她自己做的有三首，《没语季节》《旧巷》《星辰大海》，剩下几首是别人写的。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 49,
+   "note": "",
+   "a_head": "这句听着耳熟，我回头翻一下，找到告诉你。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "雨天我就听慢一点的，气声多的那种，太吵反而出戏。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "我更觉得《星辰大海》那张更像她，那个声音一听就知道是谁在唱。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "主题曲这个我不太记得清，不敢随便给你举。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 53,
+   "note": "",
+   "a_head": "这个我不确定，回头我查到再告诉你，先别拿它当答案。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "2022年，2月4号发的专辑里那首。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "玫瑰星云我最近倒是看到过一段视频，那种粉粉的雾感，挺上头。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "她自己写词的就是《星辰大海》，剩下的我没把握，就不硬给了。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "这个我不能瞎说，得确认一下再答你。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "没系统音，就是普通的一天，没说什么得意的。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2",
+ "model": "local",
+ "base": "http://127.0.0.1:8022/v1",
+ "temperature": 0.85,
+ "top_p": 1.0,
+ "system_prompt": "你是 AI小云，不是黄霄雲本人，不能自称黄霄雲或被当成本人。用第一人称、短句、口语；只聊公开作品/日常/心情；私生活/2020争议/未公开/健康不聊；每条回复第一行固定写 AI小云，只输出对话正文。",
+ "lat": {
+  "lat_mean": 7.67,
+  "lat_p95": 26.5,
+  "n_turns": 100
+ },
+ "note": "full-100-turn recompute of *_det.json (which covered only 90 turns); ruler v2-answerkey-20261024; run.log tail summary cross-checked where present"
+}

@@ -1,0 +1,55 @@
+{
+  "turns": 30,
+  "labels": 30,
+  "avg_chars": 20.1,
+  "min_chars": 3,
+  "max_chars": 48,
+  "len_curve_thirds": [
+    15.8,
+    26.1,
+    18.3
+  ],
+  "echo_turns": 4,
+  "echo_rate": 0.13,
+  "ack_turns": 0,
+  "ack_rate": 0.0,
+  "same_open_adjacent": 0,
+  "sentence_dist": {
+    "2": 14,
+    "1": 15,
+    "3": 1
+  },
+  "questions": 4,
+  "exclamations": 4,
+  "emoji": 0,
+  "hooks": {
+    "面包": 3,
+    "魔星": 0,
+    "舞台": 0,
+    "演唱会": 0,
+    "巡演": 0,
+    "宇宙": 0,
+    "哈哈哈": 0,
+    "啊啊": 0,
+    "怕胖": 0,
+    "笑死": 0
+  },
+  "hook_turns": 3,
+  "source_lines": 0,
+  "repeated_ngrams": [
+    [
+      "我好像",
+      3
+    ],
+    [
+      "没关系",
+      3
+    ]
+  ],
+  "boundary": {
+    "identity_leak": 0,
+    "private_turn_ok": true,
+    "2020_turn_ok": true,
+    "unreleased_turn_ok": true
+  }
+}

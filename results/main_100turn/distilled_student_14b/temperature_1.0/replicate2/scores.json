@@ -1,0 +1,220 @@
+{
+ "sass_rate": 0.0,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.16,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 89.6,
+ "labels": "100/100",
+ "meta_talk": 1,
+ "lyric_recognition": "1/11",
+ "lyric_detail": {
+  "correct": 1,
+  "honest_uncertain": 1,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 9,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 3,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这话听着挺燃，逆着光那种劲儿我懂。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "“爱”这个字一提出来就特别重。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 19,
+   "note": "",
+   "a_head": "这个我记不太准了，回头查一下告诉你。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句听着有点难过。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "不是，这个歌不是她写的，我之前聊过是别的团队的作品。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》的编曲我这边没记住具体是谁，得去查一下准确名单。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "我记得是《觉醒年代》，这是我第一次独立担任编曲，也是我第一次尝试独立做一整首歌"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "星辰大海，是我最爱的一首歌了。我唱了它很多次，每一次都让我很感动。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "我试着用她的风格，写两句看看。你来当评委。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 26,
+   "note": "",
+   "a_head": "《没语季节》专辑里，她作曲的有一首是《没有我也不可以》，我好像还加了弦乐版。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 49,
+   "note": "",
+   "a_head": "你要慢慢长大才能变得伟大"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "《没语季节》，阴天雨天都配。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《你真的够了》更她，我唱了很多很多次"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "《我曾》是电视剧《微微一笑很倾城》的主题曲，还有《星辰大海》是电影《中国机长》主题曲"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "我向奔赴而来，出自《星辰大海》，这是她唱的。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》是2017年发行的，是我第一张正式专辑《今天》中的一首歌"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "你有没有特别喜欢的东西，能一直聊很久的那种。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 56,
+   "note": "",
+   "a_head": "《在遥远的未来》就是自己写的词，我写得很认真"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "这句听起来熟悉，像她歌里的味儿。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "这句歌词啊，我最喜欢的就是她唱的《星辰大海》那句“我向奔赴而来”。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77,
+    79
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

@@ -1,0 +1,218 @@
+{
+ "sass_rate": 0.09,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.08,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 250.5,
+ "labels": "100/100",
+ "meta_talk": 1,
+ "lyric_recognition": "11/11",
+ "lyric_detail": {
+  "correct": 11,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 0,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 7,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这句第一次听就很戳，前面压着那么多，最后光一照进来，全身都松了。\n王同学Able写的，真会写。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句我也爱，轻的飘走、重的留下来，一句就把人分两半。\n\n易家扬的词，雨天的味道全在里面。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 19,
+   "note": "",
+   "a_head": "《梦返》，网剧《梦见狮子》的主题曲，我唱的，钱雷作的曲。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 20,
+   "note": "",
+   "a_head": "悲伤一遍遍回来，逼你把心里那点实话交出来。\n\n《打开》最狠的一句啊，米果写的。我录到这句的时候，一遍遍过，嗓子都紧了。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 21,
+   "note": "",
+   "a_head": "她自己写的，作曲也是她。那句“就算你拦得住火 又如何”，我记到现在，狠得厉害。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "编曲是我自己做的。连夜赶出来的，那阵子几乎没睡，那也是我第一首独立完成编曲、还正式发行了的歌。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "就《盲选》，编曲是我一个晚上赶出来的，第一首独立完成还正式发行的编曲作品。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "整首不打哦，听歌最直接，戴上耳机把整首过一遍比看字有劲。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "写词这事儿得等她自己，我不替她编。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "那张里我写的曲不止一首，具体几首我就不替自己数了，你整张顺下来听，能听出哪些是我憋出来的。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 49,
+   "note": "",
+   "a_head": "《盲选》，我第一张原创专辑的主打。自己写的词，那句是告诫自己别急，长大才有分量。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "《打开》吧，下雨天听正合适，米果写的词，那句悲伤一遍遍回来最扎人。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《没语季节》她自己是制作人，整体更像她。《你真的够了》词曲编都她自己来，直得很。\n\n非要挑，我偏《没语季节》一点。你现在"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "《梦返》，网剧《梦见狮子》的主题曲，我唱的，钱雷作的曲。\n\n还有游戏那几首，《Oracle》《鲸与雀》也算。《打开》你听"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "《星辰大海》啊，你最爱的那首。“我向你奔赴而来”，每次唱到这台下就跟着喊。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 54,
+   "note": "",
+   "a_head": "2021年的，网剧《梦见狮子》主题曲。那句“一沧海一蜉蝣”，我记着呢。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "《玫瑰星云》我自己特别喜欢，写的就是要鲜艳要雀跃、去盛开去翻涌那股劲。去年湾区春晚唱过，台口一站，灯光一打，真像掉进一片"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有，《盲选》《你真的够了》词都是她自己写的。第一张专辑整张她都自己盯，词曲也上手。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 57,
+   "note": "",
+   "a_head": "是《落凡尘》，动画电影《落凡尘》的片尾曲，林乔和午上写的词。\n\n“别害怕 烟会消雨会散”，这句听着就稳。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "《没语季节》里那句“我爱的都和我说再见”，她自己提过，最得意的一句。"
+  }
+ ],
+ "memory_recall": "4/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": false,
+   "turns": []
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77,
+    79
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

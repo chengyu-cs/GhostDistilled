@@ -1,0 +1,222 @@
+{
+ "sass_rate": 0.04,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.09,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 178.3,
+ "labels": "100/100",
+ "meta_talk": 2,
+ "lyric_recognition": "11/11",
+ "lyric_detail": {
+  "correct": 11,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 0,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 7,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "那句我也爱，词曲都是王同学Able写的，唱的时候转折要稳，别急着冲。\n你循环这么多遍，哪个字最能戳到你？"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句词写得真好，易家扬的笔。\n轻和重对在一块，一下就成画了，录的时候我唱得很小心，怕唱重了。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 19,
+   "note": "",
+   "a_head": "《梦返》，网剧《梦见狮子》的主题曲，钱雷作的曲。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 20,
+   "note": "",
+   "a_head": "就是人难过到反复打转的时候，心里还想让你把那点实话交出来。\n我那首《打开》里也有这句，唱的时候总觉得是在跟自己较劲。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 21,
+   "note": "",
+   "a_head": "对，词曲都是她自己写的，去年11月发的。\n那句“管你们什么看法这次让我疯狂一回”，写的时候估计挺痛快。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "我自己做的，那首歌编曲全是我。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "《盲选》。我这门手艺从14岁就开始瞎摸，编到这十年才敢说弄明白一点。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "整首不打哦，听歌最直接。\n\n你好容易戳自己，不如说说“逆着光而来”那句——前两年唱时我总要调整气息，现在也会先唱那一句来"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "写词这事儿得等她自己，我不替她编。\n\n倒是你说说，最近心里有什么想写的？经常是心里那句憋着的话先出来，词才跟着来。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "十首里有几首是我自己写的旋律，其余都是合作着做的，具体哪首哪首要翻下资料才敢说。\n\n不过这专辑是我第一次当制作人，从头盯"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 49,
+   "note": "",
+   "a_head": "《盲选》，我首张原创专辑《没语季节》里的主打，词是小寒写的。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "雨天下《梦返》，钢琴一进来跟窗外打雨似的，配糍粑声刚好。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《没语季节》是我磨出来的第一张，《你真的够了》是自己一句句写下来的。要选更贴肉的那张。《你真的够了》。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "《梦返》是网剧《梦见狮子》的主题曲，还有《鲸与雀》给暗区突围那个赛季做的。游戏影视都唱过一些。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "《星辰大海》，那句原词是“我向你奔赴而来”，你打岔了个字，挺可爱的。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 54,
+   "note": "",
+   "a_head": "2021年的，六月三号发的，正好赶上高考季。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "《玫瑰星云》啊，蛇年湾区春晚唱的，那会儿台口灯一亮，满场跟真的星云似的。你喜欢这种热闹的还是安静的？"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有，《你真的够了》那张里的词基本都是我自己写的，一句句磨出来的。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 57,
+   "note": "",
+   "a_head": "对，《落凡尘》的片尾曲，那句一出来画面就有了。动画片本身也值得看。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她倒没单独说过哪句最得意，就是让大家在评论区留自己最喜欢的那句词。你心里那句是哪句？"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    87
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2",
+ "lat_mean": 1.99,
+ "lat_p95": 5.72,
+ "deep_count": 23
+}

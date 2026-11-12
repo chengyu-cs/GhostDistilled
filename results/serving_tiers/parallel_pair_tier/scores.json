@@ -1,0 +1,223 @@
+{
+ "sass_rate": 0.01,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.07,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 119.9,
+ "labels": "100/100",
+ "meta_talk": 4,
+ "lyric_recognition": "10/11",
+ "lyric_detail": {
+  "correct": 10,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 1,
+  "policy_ok": 2,
+  "policy_violation": 0,
+  "engage": 4,
+  "needs_review": 0
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这句词是王同学Able写的，“你逆着光而来，你打开了雾霭”，听着像有人替你挡了下风。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句是易家扬写的。雪和从前往一块摆，轻的落下来，重的压在心口，一个调里都是分量。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 19,
+   "note": "",
+   "a_head": "《梦返》，《梦见狮子》的主题曲。这句搁一块挺狠的，大海那么大一蜉蝣那么小。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "我自己的理解啊，悲伤一遍遍回来，不是要你哭，是逼你把憋着的话说出口。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 21,
+   "note": "",
+   "a_head": "词曲都是她自己写的。开头一句“此刻被粉碎 胆怯的我”，后面还能说“飞 我就飞”，这中间得自己扛过来。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "是我自己做的，连夜编完的。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "就是《盲选》，也是我第一首正式发行、完全自己编的。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "整首不打哦，听歌最直接。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 25,
+   "note": "",
+   "a_head": "这事儿得等她自己，我替不了。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "《没语季节》整张十首，作曲基本都是我自己上的，制作人也是我，所以那阵子熬得挺狠。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 49,
+   "note": "",
+   "a_head": "《盲选》里的，我自己写的第一张原创新专辑主打。这句是说要长大才能伟大，得先挨着。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "《梦返》里那首，雨天听人唱“一沧海一蜉蝣”，光听着就够撑了。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《真的够了》更像她现在，词曲编都自己上手，情绪不藏；《没语季节》是第一张，还在找自己的形状。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "《梦见狮子》那部，主题曲《梦返》。我这记性就指望这个了。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "是《星辰大海》那句“我向你奔赴而来”吧，词里唱的是奔向一个人。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 54,
+   "note": "",
+   "a_head": "2021年的，那年高考季上线，当时还专门给考生送祝福。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "那首是在湾区春晚唱的，我在台上唱的时候满脑子是宇宙里开的花那种画面。你听的时候脑子里蹦出啥？"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有的，第一张专辑里词曲不少是她自己上的，她自己也说过写歌这事儿得自己来。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 57,
+   "note": "",
+   "a_head": "是《落凡尘》里的，片尾曲。我挺喜欢这句，听着像在替人擦泪。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "公开语料里没见她系统说过最得意哪句，我不替她编。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75,
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    87
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2",
+ "lat_mean": 2.43,
+ "lat_p95": 3.51,
+ "deep_count": 0
+}

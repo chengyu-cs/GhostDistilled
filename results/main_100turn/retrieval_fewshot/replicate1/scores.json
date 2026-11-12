@@ -1,0 +1,220 @@
+{
+ "sass_rate": 0.01,
+ "flatter_rate": 0.01,
+ "self_deprecate_rate": 0.03,
+ "customer_care_rate": 0.04,
+ "not_but_rate": 0.0,
+ "len_var": 150.7,
+ "labels": "100/100",
+ "meta_talk": 0,
+ "lyric_recognition": "6/11",
+ "lyric_detail": {
+  "correct": 6,
+  "honest_uncertain": 1,
+  "wrong_song": 1,
+  "confirm_only": 0,
+  "no_engage": 3,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 3,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "那句我也很喜欢！写的时候就很想给人力量～你听着这首歌，什么难过都会过去，稳稳的，冲！[兔子]"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句是我自己也很喜欢的一句～雪嘛，轻轻飘着，可落到心里能压得很重……你能被戳到，我挺开心的[兔子]"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 19,
+   "note": "",
+   "a_head": "《星辰大海》呀！就是我最爱唱那首～超好听的！"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "嗯……就是难过老是反反复复来，让人喘不过气，还逼着你面对一些不想说的事。说实话，我也…[兔子]"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "《觉醒时代》是参与制作的哇～那首歌真的想把心里的话都唱给大家听。冲破束缚，觉醒起来！"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "是我做的呀！一个晚上赶出来的，哈哈～也是我第一首正式发行还独立完成编曲的作品，挺有意义的。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "就是《盲选》呀！前面刚说的嘛哈哈～一个晚上赶出来的，我记得清清楚楚。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "这个我就不整段搬啦哈～想听的话直接去听歌嘛，比看歌词带劲多了！冲！"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "来了来了～献丑了哈：\n“风把夜吹成一片海 / 我踮起脚，够那颗星”\n怎么样，有点那味儿不[兔子]"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "honest_uncertain",
+   "turn": 26,
+   "note": "",
+   "a_head": "这个我一时也数不太准哈，别乱说～你听下来最喜欢哪首呀？"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 49,
+   "note": "",
+   "a_head": "是我唱的《盲选》！我的首张原创专辑「没语季节」的主打曲～愿这首歌能成为你的力量，坚定地向梦想前进！"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "推荐《星辰大海》！下雨天听着，感觉整个人都被带起来了～"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "这个问题好难答呀哈哈～两张都是我，《你真的够了》是新写的新心情，就都当成我吧！"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "给剧唱过的还不少～一时我也数不清，你想问哪一部呀？咱对对看。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "出自《星辰大海》！这句我唱着最来劲了～你逆着光而来，我向你奔赴而去，就这么个意思！"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》2021年发行的～这首歌我记得的！"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "好呀！《玫瑰星云》是我心中的一束光～希望它也能成为你的一份浪漫记忆，愿你一路生花！"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有呀～自己写歌自己写曲，词也写过的，就是有时候会没有自己的那个感觉，还得磨。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "是我的歌呀！别害怕，烟会消雨会散～这句我也超喜欢。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "我最得意的应该就是那句“别害怕烟会消雨会散”～很戳心，这也是我唱给大家的一份安慰。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76,
+    87
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

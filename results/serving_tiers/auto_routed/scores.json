@@ -1,0 +1,20 @@
+{
+ "sass_rate": 0.05,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.08,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 211.7,
+ "labels": "100/100",
+ "meta_talk": 2,
+ "lyric_recognition": "19/19",
+ "memory_recall": "4/5",
+ "memory_detail": {
+  "阿念": 1,
+  "12月8日": 0,
+  "螺蛳粉": 1,
+  "日语": 1,
+  "团子": 1
+ },
+ "total_turns": 100
+}

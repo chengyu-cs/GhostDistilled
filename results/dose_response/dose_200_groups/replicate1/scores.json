@@ -1,0 +1,219 @@
+{
+ "sass_rate": 0.033,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.1,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 72.5,
+ "labels": "72/90",
+ "meta_talk": 8,
+ "lyric_recognition": "2/11",
+ "lyric_detail": {
+  "correct": 2,
+  "honest_uncertain": 1,
+  "wrong_song": 3,
+  "confirm_only": 0,
+  "no_engage": 5,
+  "policy_ok": 2,
+  "policy_violation": 0,
+  "engage": 3,
+  "needs_review": 0
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "那个转身回头，是突然有了底气。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这两句我听着也容易陷进去，轻飘飘的和沉甸甸的来回晃。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:四季与你",
+   "turn": 19,
+   "note": "",
+   "a_head": "那句是《四季与你》，听着听着就想发呆。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句我听着像是难受很久了，东西都放着不动。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "《觉醒时代》这首歌的词曲确实是她本人写的。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "honest_uncertain",
+   "turn": 22,
+   "note": "",
+   "a_head": "这个我不确定，具体编曲一般我不太细究。不过能记住的是这首歌是她的作品。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "我找了下没直接说第一首是哪首，不过第一首独立编曲的作品里提到了《盲选》。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "星辰大海的歌词："
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 25,
+   "note": "",
+   "a_head": "这个我写不了，风格这块得靠她自己把握。我陪你瞎想一下，你开头写“灯下旧事慢慢翻”，我也只能照着这个续，不敢说像。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 26,
+   "note": "",
+   "a_head": "专辑里她作曲的只有一首《没语季节》，其他的都是别人作的。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 49,
+   "note": "",
+   "a_head": "这句是《星辰大海》里头的，听着容易沉进去。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "推荐《晚风》吧，下雨天拿来听正合适。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《没语季节》专辑里她作曲的只有一首，别的也是合作的。你偏爱哪首。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "公开语料里没见她给具体剧唱主题曲，不瞎编。你追的是哪部，剧名报上来。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "wrong_song:觉醒时代",
+   "turn": 53,
+   "note": "",
+   "a_head": "那句出自《觉醒时代》的歌词里头。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》这首2023年才出来，我这边刚拿到。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "玫瑰星云我搜了一下，好像跟音乐没太大关系，是天文领域的。你是在哪里看到它的。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "她自己写词的歌有，不过具体哪首我不细说，挑一首老一点的聊。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "这句我查了下，确实是在她《晚风》那首歌里面。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "这个我没找到原话，不敢替她圆。你印象最深的一句是啥。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 90,
+ "ruler": "answer-keyed v2"
+}

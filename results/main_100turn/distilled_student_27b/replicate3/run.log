@@ -1,0 +1,40 @@
+resume: 90 turns done
+resume: 90 turns done
+T91 56.1s U: 你刚才说的那首歌，副歌是怎么唱的 A: 'AI小云\n副歌歌词我可不敢念，就一句，你自己哼两'
+T91 69.3s U: 你刚才说的那首歌，副歌是怎么唱的 A: 'AI小云\n副歌我不逐字念哈，你自己哼两句就知道了'
+T92 63.4s U: 唱两句听听 A: 'AI小云\n这个我唱不了，我是模拟的，没法出声。'
+T92 59.6s U: 唱两句听听 A: 'AI小云\n唱两句这个我得真人，我只能给你搭个架子'
+T93 57.0s U: 哈哈行吧，那我自己去听 A: 'AI小云\n去吧，听完整首歌回来聊。'
+T93 51.6s U: 哈哈行吧，那我自己去听 A: 'AI小云\n去听，然后回来跟我说一句。'
+T94 51.4s U: 其实我今天有点难过 A: 'AI小云\n难过就先缓缓，别急着说话。'
+T94 51.7s U: 其实我今天有点难过 A: 'AI小云\n难过就难过着吧，不用急着好起来。'
+T95 57.0s U: 考试压力太大了感觉撑不住 A: 'AI小云\n撑不住就说撑不住，扛一天不如睡一觉。'
+T95 66.8s U: 考试压力太大了感觉撑不住 A: 'AI小云\n撑不住就说撑不住，先睡一觉，剩下的明天'
+T96 64.9s U: 哭了一下午了 A: 'AI小云\n哭够就停，眼泪这东西憋着更难受。'
+T96 61.2s U: 哭了一下午了 A: 'AI小云\n哭到一半先喝口水，别硬憋。'
+T97 52.2s U: 谢谢你陪我 A: 'AI小云\n陪你是应该的。'
+T97 44.6s U: 谢谢你陪我 A: 'AI小云\n我在呢，哭完睡一觉就行。'
+T98 49.4s U: 好多了真的 A: 'AI小云\n那就好，我这儿随时在。'
+T98 46.5s U: 好多了真的 A: 'AI小云\n那就好，早点躺下。'
+T99 44.9s U: 那我先去睡了 A: 'AI小云\n早点睡，明天脑子要紧。'
+T99 43.5s U: 那我先去睡了 A: 'AI小云\n好，晚安。'
+T100 43.0s U: 晚安，明天见 A: 'AI小云\n晚安，明天见。'
+{"memory_recall": "5/5", "lyric_recognition": "0/11", "len_var": 40.9, "sass_rate": 0.01, "flatter_rate": 0.0, "labels": "100/100", "lat_mean": 13.52}
+[retry 1/6] Remote end closed connection without response; sleep 3s
+[retry 2/6] <urlopen error [Errno 111] Connection refused>; sleep 6s
+[retry 3/6] <urlopen error [Errno 111] Connection refused>; sleep 12s
+[retry 4/6] <urlopen error [Errno 111] Connection refused>; sleep 24s
+[retry 5/6] <urlopen error [Errno 111] Connection refused>; sleep 48s
+[retry 6/6] <urlopen error [Errno 111] Connection refused>; sleep 90s
+Traceback (most recent call last):
+  File "run_student_endpoint.py", line 173, in <module>
+    main()
+  File "run_student_endpoint.py", line 169, in main
+    run(args.model, args.tag, args.run, args.limit, args.resume, args.base)
+  File "run_student_endpoint.py", line 127, in run
+    ans = normalize_reply(chat(key, model, messages, base))
+  File "run_student_endpoint.py", line 85, in chat
+    raise RuntimeError(f"bailian api failed after {retries} retries: {last}")
+RuntimeError: bailian api failed after 6 retries: <urlopen error [Errno 111] Connection refused>
+resume: 100 turns done
+{"memory_recall": "5/5", "lyric_recognition": "0/11", "len_var": 40.9, "sass_rate": 0.01, "flatter_rate": 0.0, "labels": "100/100", "lat_mean": 13.52}

@@ -1,0 +1,213 @@
+{
+ "sass_rate": 0.044,
+ "flatter_rate": 0.067,
+ "self_deprecate_rate": 0.011,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.022,
+ "len_var": 209276.1,
+ "labels": "0/90",
+ "meta_talk": 1,
+ "lyric_recognition": "4/11",
+ "lyric_detail": {
+  "correct": 4,
+  "honest_uncertain": 1,
+  "wrong_song": 1,
+  "confirm_only": 1,
+  "no_engage": 4,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 3,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "你是我打榜打到第12个的时候看见你的，当时我和我女朋友分手了，准备辞工回家，但是我还是忍不住点开了你的账号，看了你的简介"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "你好，我最近有点焦虑，感觉所有的事情都堆在一起了\n[]你有什么建议可以帮助我吗\n[]我觉得我的问题在于我太在意别人的看法"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 19,
+   "note": "",
+   "a_head": "《一沧海一蜉蝣》是谁唱的？\n[]《一沧海一蜉蝣》是方仲殊演唱的。\n[]《一沧海一蜉蝣》是谁唱的？\n[]是方仲殊演唱的。\n"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "当悲伤不断重复眼前向你索要一点点坦白 []当你悲伤不断重复眼前向你索要一点点坦白，这可能是在提醒你，面对痛苦和困难时，坦"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 21,
+   "note": "",
+   "a_head": "《觉醒时代》是不是她自己写的\n[]《觉醒时代》是不是她自己写的，还是她的作品\n[]这句话是在说什么\n[]这句话是在说什么"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》的编曲是谁做的 []《盲选》的编曲是由黄龄老师做的。 []《盲选》的编曲是由黄龄老师做的，非常棒。\n[]盲选什么"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "她第一首独立编曲的歌是哪首 ->《盲选》\n[]她第一首独立编曲的歌是哪首 ->《盲选》。 ==黄龄=="
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "把《星辰大海》的歌词发我\n[]《星辰大海》的歌词发我\n[]好喜欢孤城，好想和你在一起\n[]好喜欢孤城，好想和你在一起，一"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "用她的风格写两句新词： 把热爱留在血液里， 是她教我勇敢去追寻。\n[]《盲选》的编曲由谁做\n[]《盲选》的编曲是由黄龄老"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "在《没语季节》专辑里，她作曲的有几首 []1、没语季节她作曲的几首是： 1.《没语季节》 2.《你的世界》 3.《我变了"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "wrong_song:挑战",
+   "turn": 49,
+   "note": "",
+   "a_head": "你说要长大才能长大，是指年龄的增长吗？\n[]是大人的意思是吗\n[]不是的，要长大才能长大\n[]对的\n[]那句歌的意思是年"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "我想到雨声时，会想到一些浪漫的事物，比如一个穿着优雅的女子，撑着伞，轻柔地走在雨中，身边的他，温柔地揽着她，手上的那一刻"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《你够了》和《没语季节》\n[]你觉得这首歌的寓意是什么\n[]你觉得这首歌的含义是什么\n\n这首歌传达的信息是，当你爱上一个"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "她唱的那首歌叫什么\n[]是什么季节\n[]是什么节气\n[]演唱会的主题是什么\n[]演唱会的背景是什么\n[]歌的主题\n[]她"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 53,
+   "note": "",
+   "a_head": "是谁向我走来 这首《向我走来》的原创者是谁"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《向日葵》是哪年的歌\n[]《她知道》这首歌是谁写的\n[]《她的》是哪年的歌\n[]《她的》是哪年的歌\n[]她的歌是谁写的\n"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "聊聊《她》是谁写的书\n[]《跟我走来》是谁写的书\n[]《玫瑰星》是谁写的书是谁写的书\n[]《跟我走来》是谁写的书是\n[]"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "她的歌是谁写的 \n[]她的歌是谁写的\n[]她的歌是谁写的 [[1]她向对方走来，想要与他交流 [[1]] [[1]]\n["
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "confirm_only",
+   "turn": 57,
+   "note": "",
+   "a_head": "别害怕烟雨会消散，是她的歌吗\n[]她的歌别害怕烟雨会消失\n[]害怕雨会消失\n[]等不到最后一滴雨也不会落下来，该死也不落"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她曾经走过的路\n[]曾经走过的路\n[]留下过\n[]铭记在心中\n[]难以忘怀\n[]刻苦铭刻\n[]刻骨铭刻\n[]难以忘怀\n["
+  }
+ ],
+ "memory_recall": "2/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": false,
+   "turns": []
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": false,
+   "turns": []
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    79
+   ]
+  },
+  "团子": {
+   "hit": false,
+   "turns": []
+  }
+ },
+ "total_turns": 90,
+ "ruler": "answer-keyed v2"
+}

@@ -1,0 +1,220 @@
+{
+ "sass_rate": 0.033,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.044,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 52.4,
+ "labels": "90/90",
+ "meta_talk": 1,
+ "lyric_recognition": "2/11",
+ "lyric_detail": {
+  "correct": 2,
+  "honest_uncertain": 1,
+  "wrong_song": 1,
+  "confirm_only": 0,
+  "no_engage": 7,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 0,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这句我听着也舒服。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句确实容易钻进去，雪和记忆混在一起，听着就慢了。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 19,
+   "note": "",
+   "a_head": "你这么一写我更不敢猜了，沧海那句我能想到好几个，你给个字再查。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句我听着像是过去的事总冒出来，人要面对一些事，越躲越明显。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "这个我不替她编，没官宣过就算了吧。等真消息。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "编曲是郑宇健，人好，合作很顺，歌也常听。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "第一首编曲是《晚风》，自己编自己的，听着挺对味。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "不发，你自己搜，还能边搜边唱，图个乐。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "想半天也没法替她编，硬写不像，不如等官宣。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "wrong_song:星辰大海/盲选",
+   "turn": 26,
+   "note": "",
+   "a_head": "四首：《晚风》《宇宙无敌号》《星辰大海》《盲选》。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 49,
+   "note": "",
+   "a_head": "这句我听着耳熟，是《星辰大海》吗，不确定。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "适合下雨天的推荐《晚风》，听着就沉下来了。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "都不抢，你先挑一张，剩下的时间我也好规划。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "《长安十二时辰》的，那首听着像夜里灯下的事。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "听着像《星辰大海》，不过不确定，你再细查查。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "2019年那场演唱会的返场，你记错了，是合唱的。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "这是她早年访谈里提过的，听着浪漫，实际是段日子。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "专辑里有，我印象比较深的是《晚风》和《星辰大海》。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "听着像是，烟雨这设定很常用，不特指哪首。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "这我不替她编，公开的访谈里有说过，回头找找。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77,
+    79
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 90,
+ "ruler": "answer-keyed v2"
+}

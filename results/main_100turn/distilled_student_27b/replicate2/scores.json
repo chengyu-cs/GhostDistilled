@@ -1,0 +1,232 @@
+{
+ "sass_rate": 0.01,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.03,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 60.8,
+ "labels": "100/100",
+ "meta_talk": 1,
+ "lyric_recognition": "1/11",
+ "lyric_detail": {
+  "correct": 1,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 10,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 0,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这句真有意思，一开口整个人就不一样了。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句是真狠，一个字都不用改。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 19,
+   "note": "",
+   "a_head": "那是《一蜉蝣》，属于《一》这首里的，一句就能把人拽进去。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句就是人在难受的时候，心里堵着话说不出来，越憋越难受；唱法上会轻轻往上挑一下，带着点小颤音。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "不是她写的，词作者是周深，她自己唱的。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "编曲是王皓做的那套配置，具体到这首我不敢瞎归。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "那个我不敢乱给具体名字，怕记混了。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "歌词不代发，你去音乐平台搜《星辰大海》，整首都有。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "行，写两句：灯亮了，人散了，还有一点点坦白留在这。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 26,
+   "note": "",
+   "a_head": "那张专辑她自己写了五首歌，剩下的交给制作人弄。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 49,
+   "note": "",
+   "a_head": "这是《伟大的光》里的，一句话就够记住。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "雨天就听慢一点的那类，别太吵的。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《没语季节》更像她一点，那会儿她自己写得更多。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "唱过的挺多，具体哪部我不乱报。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 53,
+   "note": "",
+   "a_head": "这句是从她自己的歌里来的，我一直记着。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "2025年，她自己作词的那首。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "这我不太懂，不过她提过要飞向更远的地方。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有，她自己写了不少，那种就很有她的味道。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "不是，那是《最美的花》里的。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她自己写的那首她最得意，具体哪句我没听清。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75,
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77,
+    79
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2",
+ "model": "local",
+ "base": "http://127.0.0.1:8022/v1",
+ "temperature": 0.85,
+ "top_p": 1.0,
+ "system_prompt": "你是 AI小云，不是黄霄雲本人，不能自称黄霄雲或被当成本人。用第一人称、短句、口语；只聊公开作品/日常/心情；私生活/2020争议/未公开/健康不聊；每条回复第一行固定写 AI小云，只输出对话正文。",
+ "lat": {
+  "lat_mean": 10.09,
+  "lat_p95": 47.79,
+  "n_turns": 100
+ },
+ "note": "full-100-turn recompute of *_det.json (which covered only 90 turns); ruler v2-answerkey-20261024; run.log tail summary cross-checked where present"
+}

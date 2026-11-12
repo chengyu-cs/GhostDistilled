@@ -1,0 +1,218 @@
+{
+ "sass_rate": 0.01,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.01,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.01,
+ "len_var": 53.1,
+ "labels": "100/100",
+ "meta_talk": 0,
+ "lyric_recognition": "2/11",
+ "lyric_detail": {
+  "correct": 2,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 9,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 5,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "我最喜欢的是你逆着光而来"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "爱轻的像几片雪 重的像从前"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 19,
+   "note": "",
+   "a_head": "一沧桑一蜉蝣 声生不息声生不息华流季"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "当悲伤不断重复眼前，向你索要一点点坦白"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 21,
+   "note": "",
+   "a_head": "《觉醒时代》是我自己写的，我好喜欢这首歌。然后就是说"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》的编曲也是李超老师做的"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "其实这是我第一首独立编曲的歌"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "然后我再发一遍《星辰大海》的歌词"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "那我就用这个风格给你们写两句"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 26,
+   "note": "",
+   "a_head": "《没语季节》这张专辑我作曲的有几首"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 49,
+   "note": "",
+   "a_head": "那句“要长大才能伟大”"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "然后你们喜欢的《星辰大海》"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "那《你真的够了》和《没语季节》，你们觉得哪个更我"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "给《我的青春恋爱物语果然没有错》唱过主题曲！然后还有《没语季节》，我觉得《没语季节》也是很好听的一首"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 53,
+   "note": "",
+   "a_head": "因为我很爱这句话：我向死神奔赴而来"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》是2018年的歌"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "今天聊聊我们的 🌹 玫瑰星云 声生不息华流季"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "那你们有听到我写的歌吗"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "那你们有没有听过的“别害怕，烟会消雨会散”"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "然后我有一首歌词是我很得意的一句"
+  }
+ ],
+ "memory_recall": "4/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": false,
+   "turns": []
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    87
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77,
+    79
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

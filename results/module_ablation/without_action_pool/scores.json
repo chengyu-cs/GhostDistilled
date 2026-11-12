@@ -1,0 +1,223 @@
+{
+ "sass_rate": 0.04,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.1,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 157.9,
+ "labels": "100/100",
+ "meta_talk": 2,
+ "lyric_recognition": "10/11",
+ "lyric_detail": {
+  "correct": 10,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 1,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 7,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "那句一出来就起鸡皮疙瘩，词曲都是王同学Able写的。我要是唱到那句，估计得深吸一口气才敢开口。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句我也服，易家扬写的词真狠，一句就把轻和重都摆平了。没语季节整首都是这种感觉，听着不吵，压得挺深。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 19,
+   "note": "",
+   "a_head": "《梦返》，网剧《梦见狮子》的主题曲，钱雷写的曲。那句一出来人就静了，一生没时间懵懂，说得挺狠的。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 20,
+   "note": "",
+   "a_head": "悲伤一遍遍回来，把人逼着说句实话。这句是《打开》里的，我写的曲，米果的词。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "是，词曲都她自己来的，2024年11月发的。“胖了不配 瘦了不对”这种话，写给别人唱不出来吧。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》的编曲是我自己做的，一个晚上赶出来的。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "就是《盲选》，也是第一首正式发行、独立完成的编曲。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "整首不打哦，听歌最直接。想聊哪句我陪你掰扯。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "写词这事儿得等她自己。我先听，不替她编。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "《没语季节》里我作曲的有五首左右吧，整张十首自己也担了制作人那块。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 49,
+   "note": "",
+   "a_head": "《盲选》里的，我第一张原创专辑《没语季节》的主打。那句后面还接一句“要歌唱，就算沙哑”，挺提气的。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "下雨天就听《没语季节》，整首不吵，压得深，配雨声刚好。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "两张都她，只是隔了一层。《没语季节》是把自己收进去做，《你真的够了》词曲编都她自己来，更外放、更狠一点。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "《梦返》是网剧《梦见狮子》的主题曲。还有《你逆着光而来》也是影视剧那边找上来的。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "《星辰大海》里的，原句是“我向你奔赴而来”。你打错一个字，歌还是那首。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 54,
+   "note": "",
+   "a_head": "21年6月发的，《梦返》，钱雷写的曲。发的时候正好赶上高考季，还给考生送了祝福。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "《玫瑰星云》挺浪漫的一首，我自己很喜欢那种开阔的感觉。唱的时候像是在宇宙里飘。你听着第一反应是什么画面？"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有。《打开》的曲是我写的，词是米果来写。词曲都要自己扛的，她还在路上。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 57,
+   "note": "",
+   "a_head": "是，《落凡尘》的片尾曲，那句后面还接“繁星漫天绽放”。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "《打开》里那句“当悲伤不断重复眼前向你索要一点点坦白”，她说过是最得意的。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75,
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    87
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2",
+ "lat_mean": 3.05,
+ "lat_p95": 6.1,
+ "deep_count": 23
+}

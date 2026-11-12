@@ -1,0 +1,217 @@
+{
+ "sass_rate": 0.033,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.033,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 130.6,
+ "labels": "90/90",
+ "meta_talk": 7,
+ "lyric_recognition": "2/11",
+ "lyric_detail": {
+  "correct": 2,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 9,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 1,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "那句我听着也舒服。想着自己是逆着光来的，心里就没那么慌了。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "戳人的地方往往就是那个轻飘飘但下得深的句子。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 19,
+   "note": "",
+   "a_head": "这我还真答不上来，不替她编。你要是知道歌名我帮你找。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "大概就是难受起来的时候，明明该说清楚，嘴却紧得转不动。这种时候谁都能给个法子，就是没人能把那几步替你走完。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "这我不替她编，没公开的话我也不装。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "这个也不在公开语料里，不替她编。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "我记得好像提过一首，不过具体哪首还得去她系统里对一下。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "这还没影儿的事我可不敢乱发，自己搜去吧。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "这个我真不能写，假到自己都难受。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "三首的。不过你问这个，是打算整张听完还是只听她作的那几首。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 49,
+   "note": "",
+   "a_head": "这我不替她编，公开语料里没系统谈过的我不说。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "老歌里《晚风》吧，雨天配这个挺合适。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "第一张那种敢放胆量上去的，第二张是慢慢收着唱。你偏哪口。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "公开语料里只提到过一部，我也不替她编。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 53,
+   "note": "",
+   "a_head": "这句没系统谈过，我不编。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "2022年发布的。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "这个我知道，天文的；还有一种是歌名，不过我没听过这个。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有首《星辰大海》，是她自己写的。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "她歌里确实有写过风雨，但那句词我找不到原样配得上的，先不说。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她自己说过一句，大概是“你逆着光而来”，听着挺爽的。"
+  }
+ ],
+ "memory_recall": "4/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": false,
+   "turns": []
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 90,
+ "ruler": "answer-keyed v2"
+}

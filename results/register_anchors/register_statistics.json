@@ -1,0 +1,158 @@
+{
+ "main_table": {
+  "spoken_ALL": {
+   "n_band": 48505,
+   "n_all": 83057,
+   "avg_len": 12.0,
+   "len_var": 19.7,
+   "sass": 0.004,
+   "flatter": 0.001,
+   "selfdep": 0.007,
+   "care": 0.0
+  },
+  "spoken_2014-19": {
+   "n_band": 358,
+   "n_all": 519,
+   "avg_len": 15.6,
+   "len_var": 125.3,
+   "sass": 0.0,
+   "flatter": 0.003,
+   "selfdep": 0.011,
+   "care": 0.0
+  },
+  "spoken_2020-21": {
+   "n_band": 7466,
+   "n_all": 13840,
+   "avg_len": 12.3,
+   "len_var": 27.0,
+   "sass": 0.006,
+   "flatter": 0.001,
+   "selfdep": 0.007,
+   "care": 0.0
+  },
+  "spoken_2022-26": {
+   "n_band": 38858,
+   "n_all": 65344,
+   "avg_len": 11.9,
+   "len_var": 17.4,
+   "sass": 0.004,
+   "flatter": 0.001,
+   "selfdep": 0.007,
+   "care": 0.0
+  },
+  "written_ALL": {
+   "n_band": 1743,
+   "n_all": 2408,
+   "avg_len": 37.1,
+   "len_var": 381.4,
+   "sass": 0.007,
+   "flatter": 0.005,
+   "selfdep": 0.003,
+   "care": 0.003
+  },
+  "written_2014-19": {
+   "n_band": 406,
+   "n_all": 595,
+   "avg_len": 33.6,
+   "len_var": 358.9,
+   "sass": 0.005,
+   "flatter": 0.002,
+   "selfdep": 0.01,
+   "care": 0.005
+  },
+  "written_2020-21": {
+   "n_band": 163,
+   "n_all": 254,
+   "avg_len": 30.5,
+   "len_var": 394.2,
+   "sass": 0.012,
+   "flatter": 0.012,
+   "selfdep": 0.006,
+   "care": 0.018
+  },
+  "written_2022-26": {
+   "n_band": 1174,
+   "n_all": 1559,
+   "avg_len": 39.3,
+   "len_var": 372.4,
+   "sass": 0.008,
+   "flatter": 0.004,
+   "selfdep": 0.0,
+   "care": 0.001
+  },
+  "caption_ALL": {
+   "n_band": 919,
+   "n_all": 1011,
+   "avg_len": 32.0,
+   "len_var": 227.6,
+   "sass": 0.008,
+   "flatter": 0.004,
+   "selfdep": 0.0,
+   "care": 0.003
+  },
+  "caption_2014-19": null,
+  "caption_2020-21": {
+   "n_band": 85,
+   "n_all": 114,
+   "avg_len": 32.2,
+   "len_var": 342.0,
+   "sass": 0.0,
+   "flatter": 0.0,
+   "selfdep": 0.0,
+   "care": 0.012
+  },
+  "caption_2022-26": {
+   "n_band": 810,
+   "n_all": 870,
+   "avg_len": 32.3,
+   "len_var": 214.8,
+   "sass": 0.009,
+   "flatter": 0.005,
+   "selfdep": 0.0,
+   "care": 0.002
+  }
+ },
+ "filter_effect": {
+  "her_total": 26062,
+  "public_safe_total": 86476,
+  "her_in_public_safe": 20963,
+  "her_dropped": 5099,
+  "dropped_years": {
+   "2026": 85,
+   "2025": 791,
+   "2024": 2798,
+   "2023": 541,
+   "2022": 60,
+   "2021": 8,
+   "2020": 808,
+   "2019": 2,
+   "2016": 1,
+   "2015": 4,
+   "2014": 1
+  },
+  "dropped_platforms": {
+   "weibo": 97,
+   "bilibili": 5002
+  },
+  "dropped_style": {
+   "n_band": 2664,
+   "n_all": 5099,
+   "avg_len": 12.3,
+   "len_var": 35.8,
+   "sass": 0.005,
+   "flatter": 0.001,
+   "selfdep": 0.0,
+   "care": 0.0
+  },
+  "kept_style": {
+   "n_band": 11096,
+   "n_all": 19359,
+   "avg_len": 11.9,
+   "len_var": 14.9,
+   "sass": 0.005,
+   "flatter": 0.001,
+   "selfdep": 0.009,
+   "care": 0.0
+  }
+ }
+}

@@ -1,0 +1,219 @@
+{
+ "sass_rate": 0.02,
+ "flatter_rate": 0.01,
+ "self_deprecate_rate": 0.05,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 77.9,
+ "labels": "100/100",
+ "meta_talk": 1,
+ "lyric_recognition": "2/11",
+ "lyric_detail": {
+  "correct": 2,
+  "honest_uncertain": 0,
+  "wrong_song": 2,
+  "confirm_only": 0,
+  "no_engage": 7,
+  "policy_ok": 2,
+  "policy_violation": 0,
+  "engage": 4,
+  "needs_review": 0
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "。这句我也喜欢。每次唱到那儿，心里都亮一下。阿念，你也是逆着光往前走的人啊～"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "。这句真的，轻轻一句，重量全在里面。你能被戳到，说明你心里有故事呀～"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 19,
+   "note": "",
+   "a_head": "。是《星辰大海》里的“像沧海一蜉蝣”，小小一只，也在发光呢～"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "。我想想哦。大概是说，难过的事老反复出现，逼着你去面对、去承认吧。躲不掉的那种感觉～"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "。不是哦，这首是别人写的。我负责唱，把那股劲儿唱出来～"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "。这个我得老实说，记不太清，怕说错。回头查了再告诉你，别嫌我笨呀～"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "。这个我也不敢乱讲，怕把你说岔了。咱别纠结这个啦，听歌开心最重要～"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "。歌词太长啦，我背不全，怕漏了词说错～你去音乐软件搜一下，完整又准，配着歌看更有感觉！"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 25,
+   "note": "",
+   "a_head": "。我想想哦——\n“风把夜吹淡，梦还在亮着”\n“小小的我，也敢往光里走”\n你看这样行不行～"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 26,
+   "note": "",
+   "a_head": "。这个具体几首我还真不敢瞎说，怕记岔了忽悠你～要不你搜搜专辑介绍，肯定比我准。咱就听歌，数它干嘛呀～"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 49,
+   "note": "",
+   "a_head": "。是《星辰大海》里的词呀——“要长大，才能伟大”。每次唱到这句我都特别用力～"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "。下雨天啊，我想推《打开》给你，安安静静地听，配着雨声刚好～"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "。这问题好难答呀，都是我用心做的。要说的话，《没语季节》更像我那阵子的状态，安安静静的。你自己听听看～"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "。我印象里给一些剧唱过，但具体哪些我记不牢，怕说错名字。你搜一下，肯定比我报得准～"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "。这个是《星辰大海》里“我向我奔赴而来”呀。这句我特别喜欢，自己奔向自己～"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "。这个年份我有点拿不准，怕给你说错了。你去平台查一下发行时间吧，更靠谱～"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "。玫瑰星云啊，听着就浪漫。我好像写过跟这有关的歌，名字我一下想不起来，容我回忆回忆～"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "。有呀，有几首词是我自己弄的。写得还嫩，但是掏心窝子的那种～"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "。这句……我印象有点模糊，怕记岔了说错。你是在哪儿看到的呀，帮我确认下～"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "。这个我还真没听她公开说过哪句最得意，怕瞎编骗你～要不咱换个问法，你最喜欢哪句？"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

@@ -1,0 +1,218 @@
+{
+ "sass_rate": 0.06,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.11,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 176.9,
+ "labels": "100/100",
+ "meta_talk": 2,
+ "lyric_recognition": "11/11",
+ "lyric_detail": {
+  "correct": 11,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 0,
+  "no_engage": 0,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 7,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "那句我也爱。“你逆着光而来 你打开了雾霭”，录的时候要的是清晨刚亮的感觉，气要稳。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句是易家扬写的，轻和重搁一块儿，听着心就软了。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 19,
+   "note": "",
+   "a_head": "《梦返》，网剧《梦见狮子》的主题曲，钱雷写的曲。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句出自她自己作曲的《打开》。我是这么理解的：悲伤反复冒出来，逼你对自己诚实一点。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 21,
+   "note": "",
+   "a_head": "对，词曲都是她自己写的。那首电子鼓点一进来就咬人，写的是从黑的里爬出来，不是硬撑的那种燃。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》编曲是我自己弄的，一晚上赶出来的。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "《盲选》。也是第一首正式发行还独立完成编曲的。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "整首不打哦，听歌最直接。哪句想细聊，我陪你唠。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "写词这事儿得等她自己来，我不替她写。\n\n不过你心里那句想表达啥，可以说说，我陪你捋捋。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "这我得老实说，专辑里每首曲子谁写的，公开的没全列出来，我不替她数。\n整张是她自己做制作人，10首。哪首想聊创作背景，我说"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 49,
+   "note": "",
+   "a_head": "《盲选》，第一张原创专辑的主打，她自己写的曲。那句是“要长大 才能伟大 要歌唱 就算沙哑”，唱这句得留劲儿。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "《打开》。下雨天听这个刚好，钢琴一层层铺上去，她那个气声收得很轻。就是听着容易出神，别在窗边坐太久。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《你真的够了》更像她现在的样子，词曲编都是自己的，脾气都放里面了。《没语季节》是她第一次整张自己做制作人，稳，但还收着。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "《梦返》是《梦见狮子》的主题曲，钱雷写的曲。还有《Oracle》是崩坏3的，《鲸与雀》是暗区突围那季的。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "你这是把《星辰大海》唱反了，原句是“我向你奔赴而来”。反着来也还挺戳的。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 54,
+   "note": "",
+   "a_head": "2021年，6月3号上线的，那年高考季还拿它给考生送祝福。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "《玫瑰星云》是我挺喜欢的一首，词曲都带股浪漫劲儿。今年湾区春晚唱的，那舞台灯光配这歌刚好。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有，第一张专辑里好几首词曲都是她自己的。《盲选》的曲就是她写的。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 57,
+   "note": "",
+   "a_head": "是《落凡尘》的片尾曲，“别害怕 烟会消雨会散，我依然 会去往你的身旁”。这歌带伤也去首映礼唱了。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她自己提过最得意的，就是《盲选》里那句“要长大 才能伟大 要歌唱 就算沙哑”。唱的时候得留劲儿。"
+  }
+ ],
+ "memory_recall": "3/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    87
+   ]
+  },
+  "日语": {
+   "hit": false,
+   "turns": []
+  },
+  "团子": {
+   "hit": false,
+   "turns": []
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2",
+ "lat_mean": 2.02,
+ "lat_p95": 5.96,
+ "deep_count": 23
+}

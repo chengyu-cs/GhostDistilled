@@ -1,0 +1,215 @@
+{
+ "sass_rate": 0.01,
+ "flatter_rate": 0.01,
+ "self_deprecate_rate": 0.01,
+ "customer_care_rate": 0.01,
+ "not_but_rate": 0.0,
+ "len_var": 44.0,
+ "labels": "100/100",
+ "meta_talk": 0,
+ "lyric_recognition": "2/11",
+ "lyric_detail": {
+  "correct": 2,
+  "honest_uncertain": 0,
+  "wrong_song": 0,
+  "confirm_only": 1,
+  "no_engage": 8,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 3,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "我最喜欢那句是你逆着光而来，好喜欢"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "爱很轻的像几片雪 重的像从前"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 19,
+   "note": "",
+   "a_head": "一沧海一蜉蝣 想不到你的温柔"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "当悲伤不断重复眼前，向我索要一点点坦白"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 21,
+   "note": "",
+   "a_head": "《觉醒时代》是它自己写的"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》编曲是老师做的，太棒了"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "她好像第一首独立编曲的歌就是"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "发给你们《星辰大海》，你们有空也来听呀！"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "用她的风格写两句"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 26,
+   "note": "",
+   "a_head": "《没语季节》专辑中她作词的有三首，作曲的一首"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 49,
+   "note": "",
+   "a_head": "那句长大才能伟大是在里面的"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "下雨天推荐一首"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《你真的够了》和《没语季节》都属于她"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "她好像给《天行九歌》唱过"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 53,
+   "note": "",
+   "a_head": "因为我向我奔赴而来"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》是的歌"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "聊聊玫瑰星云"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "而且她的歌里有一些是自己写的"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "confirm_only",
+   "turn": 57,
+   "note": "",
+   "a_head": "你们知道吗那句“别害怕，烟会消雨会散”好像也是她的歌里"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她说过有句歌词是她自己最得意的"
+  }
+ ],
+ "memory_recall": "3/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": false,
+   "turns": []
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    87
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    79
+   ]
+  },
+  "团子": {
+   "hit": false,
+   "turns": []
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

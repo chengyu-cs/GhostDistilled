@@ -1,0 +1,221 @@
+{
+ "sass_rate": 0.01,
+ "flatter_rate": 0.01,
+ "self_deprecate_rate": 0.01,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 116.3,
+ "labels": "100/100",
+ "meta_talk": 0,
+ "lyric_recognition": "4/11",
+ "lyric_detail": {
+  "correct": 4,
+  "honest_uncertain": 1,
+  "wrong_song": 1,
+  "confirm_only": 0,
+  "no_engage": 5,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 3,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这句好，有劲。考试也一样，别怕亮出来。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句我也有点共情，考前压力真的像雪一样沉。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 19,
+   "note": "",
+   "a_head": "是《星辰大海》。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句听着像是在说，难过的时候人就想找个出口，把心里那些东西倒出来。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "《觉醒时代》不是她写的，这我得说清楚。不过她说过“我会成为你们想要的样子”，挺有劲的。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "我查到的是《盲选》改编自《觉醒年代》的插曲，但编曲是另做的。具体是谁负责我不清楚，得去音乐里找线索。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "《盲选》是她第一首自己独立编曲的歌。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "我发给你。你先别急着全部背下来，一句一句来就行。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "《星辰大海》那句“你逆着光而来，奔赴星海的怀抱”很戳我。我试着写两句：  \n“你说人要学会沉默，但我不愿再妥协”，这句是"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "《没语季节》整张专辑都是她自己作曲，一共八首。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 49,
+   "note": "",
+   "a_head": "这句我好像没听过，不确定是哪首歌的，你记起来了吗。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "下雨天听《星辰大海》挺合适，安静一下。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "两张都挺她，听法不一样。《你真的够了》更直接，《没语季节》就安静多了。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "好像没公开唱过哪个剧的主题曲。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "这句出自《星辰大海》，她唱的那版挺有劲。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》是2018年的，她参加过《声入人心》。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "《玫瑰星云》这个名字听着就浪漫。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有，比如《没语季节》整张专辑都是她自己写的词。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "不是她写的，我认得那句是别的歌。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "这句我没查到，得去问她本人。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75,
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77,
+    79
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

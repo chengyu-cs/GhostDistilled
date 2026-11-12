@@ -1,0 +1,65 @@
+{
+ "raw_attribution_pool": 44641,
+ "cleaned_pool": 26062,
+ "kept_by_safety_filter": 20963,
+ "filtered_out": 5099,
+ "filtered_by_year": {
+  "2026": 85,
+  "2025": 791,
+  "2024": 2798,
+  "2023": 541,
+  "2022": 60,
+  "2021": 8,
+  "2020": 808,
+  "2019": 2,
+  "2016": 1,
+  "2015": 4,
+  "2014": 1
+ },
+ "filtered_by_platform": {
+  "weibo": 97,
+  "bilibili": 5002
+ },
+ "later_collection_added": 13378,
+ "added_by_source_type": {
+  "weibo_alt_api": 804,
+  "xhs_note": 163,
+  "wechat_channels": 260,
+  "bilibili_official": 261,
+  "douyin_video": 327,
+  "asr_fallback": 11522,
+  "bili_subtitle": 41
+ },
+ "added_by_platform": {
+  "weibo": 804,
+  "xhs": 163,
+  "wechat": 260,
+  "bilibili": 11824,
+  "douyin": 327
+ },
+ "released_master_pool": 34341,
+ "official_layers": {
+  "public_safe_all": 33863,
+  "2020_public_safe": 437,
+  "live_curated": 41
+ },
+ "dialog_band_8_80_by_channel": {
+  "written": 1743,
+  "spoken": 17175,
+  "caption": 919
+ },
+ "band_total": 19837,
+ "downstream_use": {
+  "train_samples_sft_base": 1186,
+  "train_samples_distill_mix": 2931,
+  "train_samples_expanded": 6619,
+  "note": "训练样本数（展开后 messages 条数），非语料条数",
+  "eval_protocol_turns": 100,
+  "her_baseline_sample": 997
+ },
+ "verified": {
+  "her_subset_of_v3": true,
+  "ps_minus_v3_is_live41": true,
+  "ps_total_check": true
+ }
+}

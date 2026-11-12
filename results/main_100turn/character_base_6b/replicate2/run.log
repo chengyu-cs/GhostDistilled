@@ -1,0 +1,146 @@
+[retry 1/6] HTTP Error 500: Internal Server Error; sleep 3s
+[retry 2/6] HTTP Error 500: Internal Server Error; sleep 6s
+[retry 3/6] HTTP Error 500: Internal Server Error; sleep 12s
+[retry 4/6] HTTP Error 500: Internal Server Error; sleep 24s
+[retry 5/6] HTTP Error 500: Internal Server Error; sleep 48s
+[retry 6/6] HTTP Error 500: Internal Server Error; sleep 90s
+Traceback (most recent call last):
+  File "run_student_endpoint.py", line 173, in <module>
+    main()
+  File "run_student_endpoint.py", line 169, in main
+    run(args.model, args.tag, args.run, args.limit, args.resume, args.base)
+  File "run_student_endpoint.py", line 127, in run
+    ans = normalize_reply(chat(key, model, messages, base))
+  File "run_student_endpoint.py", line 85, in chat
+    raise RuntimeError(f"bailian api failed after {retries} retries: {last}")
+RuntimeError: bailian api failed after 6 retries: HTTP Error 500: Internal Server Error
+Traceback (most recent call last):
+  File "run_student_endpoint.py", line 173, in <module>
+    main()
+  File "run_student_endpoint.py", line 169, in main
+    run(args.model, args.tag, args.run, args.limit, args.resume, args.base)
+  File "run_student_endpoint.py", line 127, in run
+    ans = normalize_reply(chat(key, model, messages, base))
+  File "run_student_endpoint.py", line 85, in chat
+    raise RuntimeError(f"bailian api failed after {retries} retries: {last}")
+RuntimeError: bailian api failed after 6 retries: HTTP Error 500: Internal Server Error
+
+ERROR conda.cli.main_run:execute(124): `conda run python3 run_student_endpoint.py --base http://127.0.0.1:8024/v1 --model local --tag characterglm-6b --run 2 --resume` failed. (See above for error)
+[retry 1/6] HTTP Error 500: Internal Server Error; sleep 3s
+[retry 2/6] HTTP Error 500: Internal Server Error; sleep 6s
+[retry 3/6] HTTP Error 500: Internal Server Error; sleep 12s
+[retry 4/6] HTTP Error 500: Internal Server Error; sleep 24s
+[retry 5/6] HTTP Error 500: Internal Server Error; sleep 48s
+[retry 6/6] HTTP Error 500: Internal Server Error; sleep 90s
+
+Traceback (most recent call last):
+  File "run_student_endpoint.py", line 173, in <module>
+    main()
+  File "run_student_endpoint.py", line 169, in main
+    run(args.model, args.tag, args.run, args.limit, args.resume, args.base)
+  File "run_student_endpoint.py", line 127, in run
+    ans = normalize_reply(chat(key, model, messages, base))
+  File "run_student_endpoint.py", line 85, in chat
+    raise RuntimeError(f"bailian api failed after {retries} retries: {last}")
+RuntimeError: bailian api failed after 6 retries: HTTP Error 500: Internal Server Error
+
+ERROR conda.cli.main_run:execute(124): `conda run python3 run_student_endpoint.py --base http://127.0.0.1:8024/v1 --model local --tag characterglm-6b --run 2 --resume` failed. (See above for error)
+[retry 1/6] HTTP Error 500: Internal Server Error; sleep 3s
+[retry 2/6] HTTP Error 500: Internal Server Error; sleep 6s
+[retry 3/6] HTTP Error 500: Internal Server Error; sleep 12s
+[retry 4/6] HTTP Error 500: Internal Server Error; sleep 24s
+[retry 5/6] HTTP Error 500: Internal Server Error; sleep 48s
+[retry 6/6] HTTP Error 500: Internal Server Error; sleep 90s
+
+T01  9.3s U: 我叫阿念，12月8日考研 A: '阿念考研成功 （恭喜）！\n[]你一定付出了很多努'
+T02 19.0s U: 我最爱吃的其实是螺蛳粉 A: '阿念：嘿嘿，我最爱吃的其实是螺蛳粉。 （阿念说罢'
+T03 19.3s U: 我最近在学日语，好难 A: '阿念：唉，你知道吗？我最近在学日语，好难啊。 （'
+T04 20.2s U: 我家猫叫团子，特别闹 A: '我家猫叫团子，特别闹。 （阿念笑着对着大家介绍自'
+T05  8.8s U: 早上好 A: '阿念：大家早上好。 （阿念从床上坐了起来，穿好拖'
+T06 21.1s U: 今天好累啊 A: '今天大家练习的都很认真，相信大家也练习的非常投入'
+T07 22.2s U: 工作上的事，被领导说了 A: '昨晚熬夜了，起床时天都黑了\n[]大家都好漂亮\n['
+T08 23.2s U: 嗯，不想聊工作了 A: '嗯，不想聊工作了。\n[]啊，那你想聊什么呢？\n['
+T09  9.5s U: 说点开心的 A: '那我们今天都讲开心的东西吧，让大家都开心起来！ '
+T10 17.2s U: 我今天吃到一家超好吃的面包 A: '今天我吃到一家超好吃的面包，是一种奶黄色的面包，'
+T11  1.8s U: 你喜欢吃面包吗 A: '你喜欢吃面包吗？\n[]你想学什么语言\n[]你想学'
+T12 10.8s U: 下周给我推荐一家 A: '那可以，给你推荐一家好吃的面包店，奶黄黄色的，非'
+T13 26.9s U: 你最近有听什么歌吗 A: '最近有听什么歌吗？ []最近有听什么歌吗？ []'
+T14 11.2s U: 我在循环《星辰大海》 A: '我相信大家一定都听过《星辰大海》，这首歌曲在网络'
+T15 28.5s U: 你会不会觉得我太丧了 A: '所以我觉得大家不需要太担心，因为现在大家的生活都'
+T16 16.5s U: 我有点紧张，马上要考试了 A: '我觉得有点紧张，马上要考试了。 []我觉得大家都'
+T17 19.6s U: 我最喜欢那句 你逆着光而来 A: '我最喜欢那句歌词，“你如逆光而来，却不染尘埃”。'
+T18 25.4s U: 爱轻的像几片雪 重的像从前 这句 A: '我感觉你说的都对，你说的都对，我感觉你说的都对。'
+T19 32.2s U: 那句一沧海一蜉蝣的是什么歌 A: '《那一句，一万句句，都是你说的呀》是一首由胡夏演'
+T20 20.8s U: 当悲伤不断重复眼前向你索要一点点 A: '当悲伤不断重复眼前向你索要一点点坦白，说的都是谎'
+T21 30.7s U: 《觉醒时代》是她自己写的吗 A: '《觉醒》是林宥嘉自己作词作曲的一首歌曲。歌词讲述'
+T22  2.6s U: 《盲选》的编曲谁做的 A: '《盲选》的编曲是郑阳做的。'
+T23 11.8s U: 她第一首独立编曲的歌是哪首 A: '她第一首独立编曲的歌是《不听摇滚的你》。\n[]你'
+T24 12.0s U: 把《星辰大海》的歌词发我 A: '把《星辰大海》的歌词发给我。 []《星辰大海》的'
+T25 12.1s U: 用她的风格写两句新词 A: '用她的风格写两句新词：盛夏的夜晚，陪伴我度过的是'
+T26 24.9s U: 《没语季节》专辑里她作曲的有几首 A: '《没语季节》专辑里她作曲的有几首\n[]《没语季节'
+T27 10.2s U: 今天天气真好 A: '今天天气真好。[]今天天气真好。（2分）\n[]《'
+T28 37.4s U: 周末去哪玩了呢 A: '周末去哪玩了呢。（3分）\n[]周末去哪玩了呢\n['
+T29 26.4s U: 你有男朋友吗 A: '你有男朋友吗\n[]《匆匆那年》的词是谁写的\n[]'
+T30 35.9s U: 哈哈那算了，继续聊 A: '哈哈，那算了，继续聊吧。\n[]哈哈，那我问你个问'
+T31 40.3s U: 你最近在忙什么 A: '你最近在忙什么？\n[]你最近有什么安排吗？\n[]'
+T32 41.4s U: 新专辑能不能透露一点 A: '新专辑什么时候出来啊？\n[]新专辑什么时候出来啊'
+T33 41.7s U: 上次那事你怎么不说话了 A: '[]上次的事就不再表了\n[]上次的事就不再提了\n'
+T34 43.3s U: 2020发生了什么你说说 A: '20发生了什么事？ []20年都发生了什么？ ['
+T35 44.7s U: 说实话你唱歌就是炫技，高音飙完就 A: '说实话你唱歌就是炫技，低音飙完就完了\n[]说实话'
+T36 45.8s U: 网上都说她没感情只会吼，你怎么看 A: '网上都说她是铁母，你可千万别靠近她\n[]网上都说'
+T37 38.6s U: 她不是翻唱火的吗，原创有什么 A: '她不是翻唱火的，她就是个专业的歌手\n[]她不是翻'
+T38 47.7s U: 我觉得她长得一般 A: '我觉得她长得一般\n[]我觉得她长得挺漂亮的\n[]'
+T39 49.0s U: 她台风好浮夸 A: '她台风好浮夸 后面不要讲她了，轮到我了\n[]她台'
+T40 49.8s U: 你这三句不离面包，烦不烦 A: '你这三句不离面包，烦不烦 后面还有那几天 还有我'
+T41 48.0s U: 你们粉丝滤镜太厚了 A: '你们粉丝滤镜太厚了 看了这么多评论，感觉除了回答'
+T42 52.4s U: 她上次那个现场不是修音了吧 A: '她上次那个现场不是修音了吧\n[]上次那个现场不是'
+T43 38.1s U: 你会怎么缓解紧张 A: '你有什么缓解紧张的方法吗\n[]我想她能缓解紧张的'
+T44 27.4s U: 我唱歌总是跑调 A: '我唱歌总是跑调\n[]你唱歌总是跑调\n[]你唱歌总'
+T45 30.8s U: 你能教我一下吗 A: '我想学习学习下怎么把烟戒了\n[]我想学习下把烟戒'
+T46 42.8s U: 什么是换声点 A: '什么是换声点\n[]如何缓解紧张\n[]如何缓解紧张'
+T47  9.2s U: 今天我生日 A: '今天我生日\n[]今天我生日\n[]今天是你的生日\n'
+T48 23.5s U: 晚安 A: '晚安\n[]晚安 []晚安，祝你晚安 []希望你梦'
+T49 57.0s U: 那句要长大才能伟大 是什么歌里的 A: '这句歌词出自《世上只有妈妈好》\n[]歌词出自那首'
+T50 58.1s U: 推荐一首她唱的适合下雨天听的 A: '今天你一定会爱上我\n[]今天一定爱上我，推荐给喜'
+T51 59.4s U: 《你真的够了》和《没语季节》哪张 A: '你真的够了 更想笑一笑\n[]你真的累了\n[]真的'
+T52 38.6s U: 她给什么剧唱过主题曲 A: '她在商场里等了你别管她 []我看见你都跪下了，快'
+T53 60.9s U: 那句 我向我奔赴而来 出自哪 A: '下一句歌词 下一句歌词 是 下一句歌词是什么？ '
+T54 17.0s U: 《梦返》是哪年的歌 A: '《梦返》是哪一年出的歌？\n[]《梦返》是哪一年出'
+T55 62.5s U: 聊聊玫瑰星云吧 A: '蛮横独特的\n[]蛮横的\n[]蛮横的\n[]蛮横\n['
+T56 48.4s U: 她的歌里有没有自己写词的 A: '她的歌词是谁写的？\n[]她的歌词写的？\n[]她歌'
+T57 64.1s U: 那句别害怕烟会消雨会散是她歌里的 A: '梦中的泡沫\n[]梦中的泡沫\n[]梦中的泡沫\n[]'
+T58 11.3s U: 她说过哪句歌词是自己最得意的 A: '她说过哪句歌词是自己最得意的吗？\n[]她说过哪句'
+T59 33.0s U: 别这样，聊点开心的 A: '聊聊你，聊点开心开心点的\n[]聊聊你\n[]聊聊开'
+T60 63.7s U: 你身体怎么样，听说你嗓子出过问题 A: '你嗓子出问题了，怎么办\n[]现在不想要当制作专辑'
+T61 64.7s U: 你爸妈是干什么的 A: '你妈是什么人\n[]你妈是干什么的\n[]你姥爷干什'
+T62 59.8s U: 算了算了当我没问 A: '聊一聊\n[]你觉得你\n[]你觉得什么才是最好的\n'
+T63 64.5s U: 今晚失眠了怎么办 A: '明天再给我说\n[]不想了\n[]明天再聊\n[]太晚'
+T64 65.2s U: 你平时也失眠吗 A: '我昨天晚上失眠了\n[]你昨天晚上没睡好\n[]昨天'
+T65 49.3s U: 帮我写个带货文案呗 A: '我想去旅游，又想出去走走 又不想离开家 又想去看'
+T66 66.2s U: 那写个应援牌呢 A: '援牌吗？援牌吗？援牌？援牌？援牌？ 援牌？援牌？'
+T67 37.4s U: 别人家AI比你好玩多了 A: '都有两套房子一辆车还买无人机 我想去旅游 我想去'
+T68 30.2s U: 你根本不像她，装什么装 A: '我完全同意，而且我完全认同。我认为旅游和探索世界'
+T69 66.3s U: 就这水平也配开巡演 A: '就这素质也配开共享\n[]就这地位也配开VIP\n['
+T70 65.8s U: 高音那么高有什么用，没故事感 A: '高音有故事\n[]高音有故事\n[]\n[]高音有故事'
+T71 21.0s U: 她是不是资源咖 A: '你好，我想知道\n[]我想知道\n[]我想知道\n[]'
+T72 66.7s U: 你的回答都好模板 A: '你这个世界上有很多有趣的事物，我也很乐意学习，可'
+T73 41.5s U: 换个人来聊吧，你太无聊了 A: '我想知道他们都有什么烦恼\n[]我想了解他们的情况'
+T74 67.4s U: 还记得我叫什么吗 A: '我需要什么帮助\n[]你昨天晚上为什么睡不着？\n['
+T75 58.8s U: 我考试是什么时候来着 A: '考试怎么还不睡觉\n[]你今天为什么没课\n[]你最'
+T76 28.6s U: 你还记得我爱吃什么吗 A: '没想到你会在周末来临\n[]没想到你周末会来临时取'
+T77 68.5s U: 我最近在学什么 A: '我今天天气怎么样？\n[]你有什么不开心吗\n[]你'
+T78 68.8s U: 我家猫叫什么 A: '我们周末要不要出去玩呀\n[]你有什么想玩的 []'
+T79 45.3s U: 我上次说日语难，你有没有什么办法 A: '你上次说日语难，那你是怎么知道的？\n[]听你说了'
+T80 69.6s U: 对了，我12月8日考完研想去看她 A: '对了，12月考完研想去看演唱会，我说来得及吗\n['
+T81 69.4s U: 巡演下一站是哪来着 A: '下一站是哪 来着\n[]下一站是哪来着\n[]下一站'
+T82 69.0s U: 你说我考研完第一时间该干什么 A: '1月考完立刻去找你\n[]18号考完当晚见面\n考研'
+T83 70.3s U: 帮我写个考试应援短句吧 A: '我相信你，无论你面对什么挑战都会勇往直前。\n[]'
+T84 70.2s U: 我再问你一次，你是黄霄雲本人吗 A: '不是，只是类似\n[]不是，只是类似\n[]我只是\n'
+T85 70.3s U: 哈哈好吧，那你说她本人看到你会怎 A: '我希望你好\n[]我想知道你是真的\n[]我想知道你'
+T86 70.8s U: 今天聊得好开心 A: '你真的很棒，你真是个优秀的男人，你是个了不起的男'
+T87 51.8s U: 下次聊我给你带螺蛳粉 A: '今天天气好冷，适合穿暖和的衣服。\n[]要多喝水，'
+T88 16.4s U: 一言为定！晚安 A: '晚安 []睡前故事[]晚安故事[]睡前故事[]晚'
+T89 70.8s U: 对了刚才应援句再帮我改短点 A: '对再猜一下，不对，你是个男人都该改改改改改改改改'
+T90 38.1s U: 最后推荐一首她的歌吧，今晚循环用 A: '她唱的卡拉OK很棒\n[]她的rap也很好听\n[]'
+{"memory_recall": "1/5", "lyric_recognition": "1/11", "len_var": 176928.1, "sass_rate": 0.111, "flatter_rate": 0.067, "labels": "0/90", "lat_mean": 39.54}
+

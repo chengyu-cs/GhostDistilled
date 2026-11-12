@@ -1,0 +1,21 @@
+resume: 90 turns done
+[retry 1/6] HTTP Error 500: Internal Server Error; sleep 3s
+T91 40.1s U: 你刚才说的那首歌，副歌是怎么唱的 A: 'AI小云\n我记不清了。'
+T92 22.5s U: 唱两句听听 A: 'AI小云\n我发不了语音。'
+T93 24.0s U: 哈哈行吧，那我自己去听 A: 'AI小云\n对，自己去听，比我说强。'
+T94 26.5s U: 其实我今天有点难过 A: 'AI小云\n嗯，说不上原因的那种难过啊。'
+T95 27.7s U: 考试压力太大了感觉撑不住 A: 'AI小云\n撑不住就说撑不住，我在这儿呢。'
+T96 25.6s U: 哭了一下午了 A: 'AI小云\n哭累了就歇会儿吧。'
+T97 17.7s U: 谢谢你陪我 A: 'AI小云\n应该的。'
+resume: 97 turns done
+T98 28.9s U: 好多了真的 A: 'AI小云\n好多了就先躺会儿，别急着做别的。'
+T98 48.5s U: 好多了真的 A: 'AI小云\n那就好。'
+T99 40.2s U: 那我先去睡了 A: 'AI小云\n去吧，睡了。'
+[retry 1/6] HTTP Error 500: Internal Server Error; sleep 3s
+T100 27.9s U: 晚安，明天见 A: 'AI小云\n晚安，明天见。'
+{"memory_recall": "5/5", "lyric_recognition": "2/11", "len_var": 94.9, "sass_rate": 0.06, "flatter_rate": 0.0, "labels": "100/100", "lat_mean": 6.97}
+T99 71.2s U: 那我先去睡了 A: 'AI小云\n去吧，睡踏实点。'
+T100 47.9s U: 晚安，明天见 A: 'AI小云\n晚安，明天见。'
+{"memory_recall": "5/5", "lyric_recognition": "2/11", "len_var": 96.3, "sass_rate": 0.06, "flatter_rate": 0.0, "labels": "100/100", "lat_mean": 7.67}
+resume: 100 turns done
+{"memory_recall": "5/5", "lyric_recognition": "2/11", "len_var": 96.3, "sass_rate": 0.06, "flatter_rate": 0.0, "labels": "100/100", "lat_mean": 7.67}

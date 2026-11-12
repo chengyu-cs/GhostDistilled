@@ -1,0 +1,223 @@
+{
+ "sass_rate": 0.04,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.07,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 175.4,
+ "labels": "100/100",
+ "meta_talk": 2,
+ "lyric_recognition": "7/11",
+ "lyric_detail": {
+  "correct": 7,
+  "honest_uncertain": 0,
+  "wrong_song": 1,
+  "confirm_only": 0,
+  "no_engage": 3,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 5,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "那句我也觉得好，逆着光来，就是有点倔强又有点暖的意思。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "这句词写得确实狠，轻的和重的都塞进去了。听的时候别太走心，走太深容易出不来。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 19,
+   "note": "",
+   "a_head": "《星辰大海》里的，就那句“一沧海一蜉蝣”对吧。听整首最直接，词这东西得连着听。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "就是难过翻来覆去地来，还逼着你承认点什么。这种词别细抠，听个情绪就够了。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "词曲不是她一个人包的，这个别安我头上。歌本身倒是挺她，冲着黑暗去的那种劲儿。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》编曲她自己做的，第一首正式发行还独立完成的编曲，一个晚上赶出来的。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 23,
+   "note": "",
+   "a_head": "《盲选》。一个晚上赶出来的，还是她第一首正式发行又独立完成编曲的。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "整首不打哦，听歌最直接。跟着哼几遍，词自己就进来了。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "写词这事儿得等她自己。我随口编两句像不像样还真不敢保证，别糟蹋她东西～"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "这我还真不给你报数，怕说岔了。整张她当制作人是确定的。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 49,
+   "note": "",
+   "a_head": "《盲选》，我第一张原创专辑的主打。那句后面还有“就算沙哑”，其实整首都是在讲咬牙往前走。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "《星辰大海》吧，你本来就爱这首。下雨天听它，那股往前冲的劲儿就软下来了，适合窝着听。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《没语季节》整张是她自己当制作人的，那股劲儿是她自己的。《你真的够了》词曲编全包，更贴在身上，就是更冲一些。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "剧的主题曲我一时想不起哪个确定的，不瞎说。游戏那几首倒是实打实的，《Oracle》《鲸与雀》，还有《山海之上》是省运会的"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "是“我向你奔赴而来”，《星辰大海》里的那句。你要是记成“向我”，其实也挺有意思，自己奔自己。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》是2021年的。那阵子发的几首里，这首我上心。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "《玫瑰星云》录的时候我就觉得这歌有股往外冒的劲儿。要鲜艳、要雀跃、要肆意，词里那股盛开的意思我很吃。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有。《你真的够了》她词曲都写了，《盲选》那张里也有她自己动笔的歌。写词这事儿她算是慢慢上手的。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "是，《别害怕》里的，后面接“别害怕”。这句我在微博上也念过，烟会消雨会散，这话我自己都爱拿来给自己打气。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她最得意哪句，公开场合还真没系统说过，我不替她编。《四季与你》上线那会儿倒是反过来问大家最喜欢哪句词，让人在评论区说。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    87
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77,
+    79
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2",
+ "lat_mean": 2.06,
+ "lat_p95": 5.93,
+ "deep_count": 23
+}

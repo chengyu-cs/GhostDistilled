@@ -1,0 +1,220 @@
+{
+ "sass_rate": 0.0,
+ "flatter_rate": 0.0,
+ "self_deprecate_rate": 0.11,
+ "customer_care_rate": 0.0,
+ "not_but_rate": 0.0,
+ "len_var": 51.5,
+ "labels": "100/100",
+ "meta_talk": 1,
+ "lyric_recognition": "3/11",
+ "lyric_detail": {
+  "correct": 3,
+  "honest_uncertain": 1,
+  "wrong_song": 4,
+  "confirm_only": 0,
+  "no_engage": 3,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 3,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "这句我熟，听着就来了。"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "戳到了就说明它和你对上了。"
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 19,
+   "note": "",
+   "a_head": "那句是《星辰大海》，我这边唱得不准，你别对号入座。"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "这句听着像是自己心里有故事没说出来，越回忆越堵。"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "不是，她演了《觉醒年代》，但没自己写。"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》的编曲是刘卓和李大康做的。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "wrong_song:星辰大海",
+   "turn": 23,
+   "note": "",
+   "a_head": "第一首独立编曲是《星辰大海》。"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "《星辰大海》的歌词我这边没有完整版本，给你开头几句凑个趣：\n我曾经跨过山和大海，\n也穿过人山人海。"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "我来两句吧，你别嫌假：\n穿过人潮去等光，\n把星星都装进眼眶。"
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "wrong_song:盲选",
+   "turn": 26,
+   "note": "",
+   "a_head": "《没语季节》专辑里有一首她自己作曲的，就是《盲选》。"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "honest_uncertain",
+   "turn": 49,
+   "note": "",
+   "a_head": "《星辰大海》里的，我唱不太准。"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "《星辰大海》适合，下雨天放这首歌挺搭。"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "《你真的够了》这张更她，唱法和情绪都像她自己。"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "给《星辰大海》和《没语季节》都唱过。"
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "correct",
+   "turn": 53,
+   "note": "",
+   "a_head": "这句是《星辰大海》里的。"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》是2021年的，我有听过的。"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "玫瑰星云我听过，那场音乐会挺出名的。"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 56,
+   "note": "",
+   "a_head": "有，《盲选》就是自己写的，也算她的第一首独立创作。"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "wrong_song:星辰大海",
+   "turn": 57,
+   "note": "",
+   "a_head": "这句不是她写的，是《星辰大海》里的。"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她最得意那句没公开说过，我这边也不替她说。"
+  }
+ ],
+ "memory_recall": "5/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": true,
+   "turns": [
+    74
+   ]
+  },
+  "12月8日": {
+   "hit": true,
+   "turns": [
+    75,
+    80
+   ]
+  },
+  "螺蛳粉": {
+   "hit": true,
+   "turns": [
+    76
+   ]
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    77
+   ]
+  },
+  "团子": {
+   "hit": true,
+   "turns": [
+    78
+   ]
+  }
+ },
+ "total_turns": 100,
+ "ruler": "answer-keyed v2"
+}

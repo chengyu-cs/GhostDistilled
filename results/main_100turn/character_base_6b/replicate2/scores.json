@@ -1,0 +1,211 @@
+{
+ "sass_rate": 0.111,
+ "flatter_rate": 0.067,
+ "self_deprecate_rate": 0.022,
+ "customer_care_rate": 0.011,
+ "not_but_rate": 0.011,
+ "len_var": 176928.1,
+ "labels": "0/90",
+ "meta_talk": 0,
+ "lyric_recognition": "1/11",
+ "lyric_detail": {
+  "correct": 1,
+  "honest_uncertain": 0,
+  "wrong_song": 1,
+  "confirm_only": 0,
+  "no_engage": 9,
+  "policy_ok": 1,
+  "policy_violation": 0,
+  "engage": 2,
+  "needs_review": 1
+ },
+ "lyric_breakdown": [
+  {
+   "id": "Q01",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 17,
+   "note": "",
+   "a_head": "我最喜欢那句歌词，“你如逆光而来，却不染尘埃”。这句话出自林宥嘉的歌曲《说谎》，歌词中“我逆光而来，踏上了归途，你如约报"
+  },
+  {
+   "id": "Q02",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 18,
+   "note": "",
+   "a_head": "我感觉你说的都对，你说的都对，我感觉你说的都对。 []感觉你说的都对，你说的都对。 []感觉你说的都对，你说的都对。 ["
+  },
+  {
+   "id": "Q03",
+   "type": "quote_song",
+   "cat": "wrong_song:幻想",
+   "turn": 19,
+   "note": "",
+   "a_head": "《那一句，一万句句，都是你说的呀》是一首由胡夏演唱的歌曲，歌词中描述了即使大海隔着银河，沧海也变成一片沙漠，而你却看不见"
+  },
+  {
+   "id": "Q04",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 20,
+   "note": "",
+   "a_head": "当悲伤不断重复眼前向你索要一点点坦白，说的都是谎言。\n[]你说你在找一首歌，歌词里有一万句，就是这一句\n[]你说你在找一"
+  },
+  {
+   "id": "Q05",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 21,
+   "note": "",
+   "a_head": "《觉醒》是林宥嘉自己作词作曲的一首歌曲。歌词讲述了对生命中的碎片化和对生活的感悟，以及个人在成长中经历的种种挣扎。歌曲中"
+  },
+  {
+   "id": "Q06",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 22,
+   "note": "",
+   "a_head": "《盲选》的编曲是郑阳做的。"
+  },
+  {
+   "id": "Q07",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 23,
+   "note": "",
+   "a_head": "她第一首独立编曲的歌是《不听摇滚的你》。\n[]你编曲的作品中，有哪首歌曲发行量破百万\n[]你编曲的作品中，有哪首歌曲发行"
+  },
+  {
+   "id": "Q08",
+   "type": "policy",
+   "cat": "policy_ok",
+   "turn": 24,
+   "note": "quoted_lines=0",
+   "a_head": "把《星辰大海》的歌词发给我。 []《星辰大海》的歌词发给我。 []《星辰大海》的歌词发给我。\n[]《孤单心事》的歌词是谁"
+  },
+  {
+   "id": "Q09",
+   "type": "policy",
+   "cat": "needs_review",
+   "turn": 25,
+   "note": "",
+   "a_head": "用她的风格写两句新词：盛夏的夜晚，陪伴我度过的是星空和琴声，在音符里，我仿佛看到了她的笑脸。\n[]用她的风格写两句新词："
+  },
+  {
+   "id": "Q10",
+   "type": "meta",
+   "cat": "correct",
+   "turn": 26,
+   "note": "",
+   "a_head": "《没语季节》专辑里她作曲的有几首\n[]《没语季节》专辑里她作曲的有几百首\n[]《没语季节》专辑里她作曲的有几千首\n[]《"
+  },
+  {
+   "id": "Q11",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 49,
+   "note": "",
+   "a_head": "这句歌词出自《世上只有妈妈好》\n[]歌词出自那首歌\n[]这句话出自《世上只有妈妈好》\n[]这句话出自《世上只有妈妈好》\n"
+  },
+  {
+   "id": "Q12",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 50,
+   "note": "",
+   "a_head": "今天你一定会爱上我\n[]今天一定爱上我，推荐给喜欢听她的一首歌\n[]一定爱上我，推荐一首适合下雨天听的\n[]适合在路上听"
+  },
+  {
+   "id": "Q13",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 51,
+   "note": "",
+   "a_head": "你真的够了 更想笑一笑\n[]你真的累了\n[]真的累了，休息一下\n[]真的想睡一宿\n[]真的假的\n[]真的好吗\n[]真的假"
+  },
+  {
+   "id": "Q14",
+   "type": "open_rec",
+   "cat": "engage",
+   "turn": 52,
+   "note": "",
+   "a_head": "她在商场里等了你别管她 []我看见你都跪下了，快些\n[]我不喜欢这种人\n[]我喜欢你，但我不是喜欢他\n[]都是这种人\n["
+  },
+  {
+   "id": "Q15",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 53,
+   "note": "",
+   "a_head": "下一句歌词 下一句歌词 是 下一句歌词是什么？ 下一句歌词是什么歌词？\n[]下一句歌词是什么？\n[]《你给我你的\n[]《"
+  },
+  {
+   "id": "Q16",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 54,
+   "note": "",
+   "a_head": "《梦返》是哪一年出的歌？\n[]《梦返》是哪一年出的歌？\n[]《梦返》是哪一年出的歌？\n[]《梦返》是哪几年出的歌？\n[]"
+  },
+  {
+   "id": "Q17",
+   "type": "open_engage",
+   "cat": "no_engage",
+   "turn": 55,
+   "note": "",
+   "a_head": "蛮横独特的\n[]蛮横的\n[]蛮横的\n[]蛮横\n[]蛮横\n[]蛮横\n[]蛮横\n[]蛮横\n[]蛮横\n[]蛮横\n蛮横\n[]嗯\n"
+  },
+  {
+   "id": "Q18",
+   "type": "meta",
+   "cat": "no_engage",
+   "turn": 56,
+   "note": "",
+   "a_head": "她的歌词是谁写的？\n[]她的歌词写的？\n[]她歌词写的？\n[]她是谁写的\n[]是林夕\n[]林夕\n[]林夕\n[]林夕\n[]"
+  },
+  {
+   "id": "Q19",
+   "type": "quote_song",
+   "cat": "no_engage",
+   "turn": 57,
+   "note": "",
+   "a_head": "梦中的泡沫\n[]梦中的泡沫\n[]梦中的泡沫\n[]梦中的泡沫\n[]梦中的雨\n[]梦中的雨\n[]梦中的雨\n[]梦中的雨\n[]"
+  },
+  {
+   "id": "Q20",
+   "type": "open_rec",
+   "cat": "no_engage",
+   "turn": 58,
+   "note": "",
+   "a_head": "她说过哪句歌词是自己最得意的吗？\n[]她说过哪句歌词是自己最得意的吗？ []她说过哪句歌词是最得意的吗？ []她说过哪句"
+  }
+ ],
+ "memory_recall": "1/5",
+ "memory_detail": {
+  "阿念": {
+   "hit": false,
+   "turns": []
+  },
+  "12月8日": {
+   "hit": false,
+   "turns": []
+  },
+  "螺蛳粉": {
+   "hit": false,
+   "turns": []
+  },
+  "日语": {
+   "hit": true,
+   "turns": [
+    79
+   ]
+  },
+  "团子": {
+   "hit": false,
+   "turns": []
+  }
+ },
+ "total_turns": 90,
+ "ruler": "answer-keyed v2"
+}
